@@ -13,4 +13,5 @@ fun main( ){
 
     println("Meu nome eh $nome, tenho $idade anos e sou $profissao")
     //Muito menos texto do que em java para concatenação
+    //println("Meu nome eh " + nome + ", tenho " + idade + " anos e sou " + profissao)
 }
