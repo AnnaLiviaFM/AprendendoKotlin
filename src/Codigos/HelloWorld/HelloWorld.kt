@@ -3,4 +3,5 @@
 
 fun main(){
     println("Hello World!")
+    println("Um lindo dia para aprender uma nova linguagem!")
 }
