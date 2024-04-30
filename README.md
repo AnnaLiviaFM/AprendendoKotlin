@@ -4,6 +4,7 @@ Bem-vindo ao meu repositório de estudo de Kotlin!
 Este repositório é dedicado ao meu aprendizado em desenvolvimento de aplicativos móveis nativos para Android, com foco em Kotlin. Aqui, vou documentar minha jornada de estudo, compartilhando códigos, notas, e recursos úteis que encontrei ao longo do caminho.
 
 O que você vai encontrar por aqui:
+
 Exemplos de código e projetos práticos
 Anotações e resumos de conceitos importantes
 Links vídeos e outros recursos úteis
