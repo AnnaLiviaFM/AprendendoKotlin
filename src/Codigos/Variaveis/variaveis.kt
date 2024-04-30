@@ -5,7 +5,7 @@
 */
 
 
-fun main(){
+fun main( ){
     //Mutável: usamos var para variáveis mutáveis, ou seja, que podem ser modificadas
     var nome = "Anna Livia Freire"
     println(nome)
